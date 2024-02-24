@@ -8,8 +8,10 @@
     "@testing-library/user-event": "^13.5.0",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
+    "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "react-tooltip": "^5.26.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -39,6 +41,8 @@
   "devDependencies": {
     "autoprefixer": "^10.4.17",
     "postcss": "^8.4.35",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.4.1"
   }
 }
